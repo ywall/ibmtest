@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6f72fee-b4e4-460a-acda-d881a2ab7558" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/test20/mmm.html" beforeDir="false" afterPath="$PROJECT_DIR$/test20/mmm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test20/ha.html" beforeDir="false" afterPath="$PROJECT_DIR$/test20/ha.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,20 +16,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file leaf-file-name="ha.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ha.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test20/ha.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="144">
-              <caret line="4" column="51" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
+              <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mmm.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="mmm.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test20/mmm.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="4" column="49" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
+            <state relative-caret-position="180">
+              <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -56,8 +56,8 @@
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/test20/j2.0" />
-        <option value="$PROJECT_DIR$/test20/ha.html" />
         <option value="$PROJECT_DIR$/test20/mmm.html" />
+        <option value="$PROJECT_DIR$/test20/ha.html" />
       </list>
     </option>
   </component>
@@ -155,7 +155,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1497000" />
+    <option name="totallyTimeSpent" value="1808000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="3862" height="2126" extended-state="6" />
@@ -371,17 +371,17 @@
     <entry file="file://$PROJECT_DIR$/test20/go2222">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/test20/ha.html">
+    <entry file="file://$PROJECT_DIR$/test20/mmm.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="4" column="51" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
+        <state relative-caret-position="180">
+          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test20/mmm.html">
+    <entry file="file://$PROJECT_DIR$/test20/ha.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
-          <caret line="4" column="49" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
+          <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
         </state>
       </provider>
     </entry>
