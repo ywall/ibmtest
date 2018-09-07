@@ -14,7 +14,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="j2.0" pinned="false" current-in-tab="true">
+      <file leaf-file-name="j2.0" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test20/j2.0">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -23,7 +23,33 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="lls" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test20/lls">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="go2222" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test20/go2222">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="ha.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test20/ha.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -38,6 +64,7 @@
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/test20/j2.0" />
+        <option value="$PROJECT_DIR$/test20/ha.html" />
       </list>
     </option>
   </component>
@@ -72,11 +99,6 @@
               <item name="gittest" type="b2602c69:ProjectViewProjectNode" />
               <item name="gittest" type="462c0819:PsiDirectoryNode" />
               <item name="test20" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gittest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gittest" type="462c0819:PsiDirectoryNode" />
-              <item name="test888" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -115,10 +137,18 @@
       <updated>1536304718170</updated>
       <workItem from="1536304719480" duration="622000" />
     </task>
+    <task id="LOCAL-00001" summary="aaarrrrr">
+      <created>1536306123953</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1536306123953</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="685000" />
+    <option name="totallyTimeSpent" value="935000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="3862" height="2126" extended-state="6" />
@@ -159,6 +189,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="aaarrrrr" />
+    <option name="LAST_COMMIT_MESSAGE" value="aaarrrrr" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
@@ -179,6 +213,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test20/lls">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test20/go2222">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test20/ha.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
         </state>
       </provider>
     </entry>
